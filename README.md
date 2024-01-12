@@ -2,7 +2,7 @@
 
 An in-class project on a 2D pseudo random generative tile-based exploration engine.
 
-You can run the 
+You can run the program by compiling the byow.Core package with the Java class and running the Main program.
 
 ## Classes and Data Structures
 - 2d arrays for building the world
